@@ -150,7 +150,7 @@ dashboard/retail_dashboard.pbix
 ## Author
 
 Pujitha Vaka
-Aspiring Data Analys
+Aspiring Data Analyst
 
 * GitHub: https://github.com/pujithavaka99
-* LinkedIn: https://linkedin.com/in/pujithavaka99
+* LinkedIn: https://www.linkedin.com/in/pujithavaka99/
