@@ -1,46 +1,39 @@
 # Retail Sales Performance Analysis
 
-## Project Overview
-
-This project analyzes retail sales data to understand business performance across different regions, product categories, and customer segments. The goal is to uncover key trends, identify top-performing products, and provide actionable insights to improve revenue and profitability.
-
-The analysis includes data cleaning, exploratory data analysis (EDA), and the creation of an interactive Power BI dashboard.
+## Executive Summary
+This project analyzes retail sales data to evaluate business performance across regions, product categories, and customer segments. The analysis identifies top-performing products, regional trends, and seasonal patterns. An interactive Power BI dashboard was created to support data-driven decision-making.
 
 ---
 
 ## Business Problem
-
 Retail companies need to understand:
+- Which products generate the most revenue
+- Which regions perform best
+- Which customer segments drive sales
+- How sales change over time
 
-* Which products generate the most revenue
-* Which regions perform best
-* Which customer segments drive sales
-* How sales change over time
-
-This project answers these questions using real-world retail data.
+This project answers these questions using retail transaction data.
 
 ---
 
 ## Tools & Technologies
-
-* **Python**
-
-  * Pandas
-  * NumPy
-  * Matplotlib
-  * Seaborn
-* **Power BI**
-* Jupyter Notebook
-* GitHub for version control
-
+- **Python**
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
+- **Power BI**
+- Jupyter Notebook
+- GitHub
+  
 ---
 
 ## Dataset
 
 * Superstore retail dataset
 * Contains sales transactions across multiple regions and product categories
+  
 * Key features:
-
   * Order Date
   * Category and Sub-Category
   * Region and State
@@ -50,11 +43,10 @@ This project answers these questions using real-world retail data.
 ---
 
 ## Project Workflow
-
 1. Data loading and understanding
 2. Data cleaning and preprocessing
 3. Handling missing values
-4. Feature engineering (year, month, etc.)
+4. Feature engineering (year, month)
 5. Exploratory data analysis
 6. Business insights generation
 7. Power BI dashboard creation
@@ -62,7 +54,6 @@ This project answers these questions using real-world retail data.
 ---
 
 ## Key Business Insights
-
 * The **Technology** category generated the highest total sales.
 * The **West region** had the strongest overall performance.
 * Sales showed a **clear increase during the final quarter** of the year.
@@ -70,6 +61,9 @@ This project answers these questions using real-world retail data.
 * Different customer segments showed varying contributions to sales.
 
 ---
+
+## Dashboard Preview
+![Dashboard](images/Retail-sales-analysis.png)
 
 ## Dashboard Features
 
@@ -109,7 +103,7 @@ Retail-Sales-Analysis
 1. Clone this repository:
 
 ```
-git clone https://github.com/yourusername/Retail-Sales-Analysis.git
+git clone https://github.com/pujithavaka99/Retail-Sales-Analysis.git
 ```
 
 2. Open the notebook:
@@ -154,3 +148,4 @@ Aspiring Data Analyst
 
 * GitHub: https://github.com/pujithavaka99
 * LinkedIn: https://www.linkedin.com/in/pujithavaka99/
+
