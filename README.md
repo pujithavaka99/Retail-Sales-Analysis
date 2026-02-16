@@ -63,7 +63,8 @@ This project answers these questions using retail transaction data.
 ---
 
 ## Dashboard Preview
-![Dashboard](images/Retail-sales-analysis.png)
+<img width="1330" height="746" alt="Retail-sales-analysis" src="https://github.com/user-attachments/assets/4b5d4aea-bbab-46c7-9b63-bd55d0c42549" />
+
 
 ## Dashboard Features
 
@@ -148,4 +149,5 @@ Aspiring Data Analyst
 
 * GitHub: https://github.com/pujithavaka99
 * LinkedIn: https://www.linkedin.com/in/pujithavaka99/
+
 
